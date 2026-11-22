@@ -14022,7 +14022,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
 			(at 99.06 110.49 0)
 			(effects
 				(font
@@ -14783,7 +14783,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
 			(at 95.25 62.23 0)
 			(effects
 				(font
@@ -17699,7 +17699,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243"
 			(at 21.59 110.49 0)
 			(effects
 				(font
