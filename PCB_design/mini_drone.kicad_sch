@@ -8093,16 +8093,27 @@
 		)
 		(uuid "27366b86-5088-4b27-bbe2-b36ef22958c3")
 	)
-	(text "Tutaj daje zamiennik CH340C"
+	(text "ICM-42670-P"
 		(exclude_from_sim no)
-		(at 210.058 71.12 0)
+		(at 167.386 194.564 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(href "https://www.youtube.com/watch?v=X3m5shEr6eY")
+			(href "https://www.digikey.pl/pl/products/detail/tdk-invensense/ICM-42670-P/14319524?s=N4IgTCBcDaIJIGECyBaALGAbAdgAwoAUQBdAXyA")
 		)
-		(uuid "affc0b49-9d49-4561-8488-a2859051eca1")
+		(uuid "92c4fe83-df85-4a8e-b1c8-a18c4fd1bfba")
+	)
+	(text "MCP2200T-E"
+		(exclude_from_sim no)
+		(at 218.948 70.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(href "https://www.digikey.pl/pl/products/detail/microchip-technology/MCP2200T-E-SS/16623929?s=N4IgTCBcDaIKoGUBCACOBBASgFRQYwHsA7ANwFMAnAF0pAF0BfIA")
+		)
+		(uuid "9c6647c9-2400-40ba-bebd-b6bb2bc43a04")
 	)
 	(text "https://www.tme.eu/pl/ft232rl-reel/"
 		(exclude_from_sim no)
