@@ -7,14 +7,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -8.128 9.906 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
 			(at 0 0 0)
 			(effects
 				(font
@@ -22,7 +14,15 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Value" "TP4056"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:SOP-8_3.76x4.96mm_P1.27mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -59,14 +59,6 @@
 				)
 				(fill
 					(type background)
-				)
-			)
-			(text "TP4056\n"
-				(at 5.334 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(pin input line
